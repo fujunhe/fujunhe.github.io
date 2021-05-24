@@ -23,7 +23,7 @@ Education
 * 2014 – 2017, M.E. in Optical Engineering
   * University of Electronic Science and Technology of China, Chengdu, China
   * Supervisor: Prof. [Yong Liu](https://scholar.google.com/citations?user=r0aZUfoAAAAJ)
-* 2010 - 2014, B.E. in Electronic Science and Technology
+* 2010 – 2014, B.E. in Electronic Science and Technology
   * University of Electronic Science and Technology of China, Chengdu, China
   * GPA: 3.81/4.00
 
