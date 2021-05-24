@@ -29,17 +29,17 @@ Education
 
 Employment history
 ======
-|                |                             |                                |
-|----------------|-----------------------------|--------------------------------|
-| 2020 – present | Program-Specific Researcher | Kyoto University, Kyoto, Japan |
-| 2017 – 2020    | Research Assistant          | Kyoto University, Kyoto, Japan |
+* 2020 – present, Program-Specific Researcher
+  * Kyoto University, Kyoto, Japan
+* 2017 – 2020, Research Assistant 
+  * Kyoto University, Kyoto, Japan
 
 Visiting
 ======
-|                |                             |                                |
-|----------------|-----------------------------|--------------------------------|
-| 2016           | Summer visiting student     | Hong Kong Baptist University, Hong Kong, China |
-| 2015 – 2016    | Exchange student            | The University of Electro-Communications, Tokyo, Japan |
+* 2016, Summer visiting student
+  * Hong Kong Baptist University, Hong Kong, China
+* 2015 – 2016, Exchange student
+  * The University of Electro-Communications, Tokyo, Japan
 
 Projects
 ======
@@ -57,7 +57,5 @@ Service
 
 Award
 ======
-|                |                             |                              
-|----------------|-----------------------------|
-| 2020           | IEEE ComSoc Student Grant at IEEE ICC |
-| 2019           | Excellent Paper Award at IEEE HPSR |
+* 2020, IEEE ComSoc Student Grant at IEEE ICC
+* 2019, Excellent Paper Award at IEEE HPSR
