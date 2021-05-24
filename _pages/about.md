@@ -29,21 +29,35 @@ Education
 
 Employment history
 ======
-1. 2020 – present, Program-Specific Researcher, Kyoto University, Kyoto, Japan
-1. 2017 – 2020, Research Assistant, Kyoto University, Kyoto, Japan
+|                |                             |                                |
+|----------------|-----------------------------|--------------------------------|
+| 2020 – present | Program-Specific Researcher | Kyoto University, Kyoto, Japan |
+| 2017 – 2020    | Research Assistant          | Kyoto University, Kyoto, Japan |
 
 Visiting
 ======
-Under construction 
+|                |                             |                                |
+|----------------|-----------------------------|--------------------------------|
+| 2016           | Summer visiting student     | Hong Kong Baptist University, Hong Kong, China |
+| 2015 – 2016    | Exchange student            | The University of Electro-Communications, Tokyo, Japan |
 
 Projects
 ======
-Under construction
+* Robust Optimization for Resource Allocation in Cloud Providers
+  * Funding agency: JSPS Grant-in-Aid for Early-Career Scientists
+  * Duration: 2021 – 2023
+  * Role: Principal Investigator
+  * Amount: 4,290,000 JPY
 
 Service
 ======
-Under construction
+1. **Reviewer**: IEEE/ACM Transactions on Networking (ToN), IEEE Transactions on Network and Service Management
+(TNSM), IEEE Access, IEEE NetSoft 2021
+1. **TPC member**: IEEE NetSoft 2021
 
 Award
 ======
-Under construction
+|                |                             |                              
+|----------------|-----------------------------|
+| 2020           | IEEE ComSoc Student Grant at IEEE ICC |
+| 2019           | Excellent Paper Award at IEEE HPSR |
