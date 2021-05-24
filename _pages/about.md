@@ -25,17 +25,17 @@ Employment history
 1. Under construction
 
 Visiting
-------
+======
 Under construction 
 
+Projects
+======
+Under construction
+
 Service
-------
+======
 Under construction
 
 Award
-------
-Under construction
-
-Projects
-------
+======
 Under construction
