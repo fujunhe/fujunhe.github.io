@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Program-Specific Researcher at [Kyoto University](https://www.kyoto-u.ac.jp/ja), Kyoto, Japan. I am working with Prof. [Eiji Oki](http://icn.cce.i.kyoto-u.ac.jp/english/english_oki) at [ICN](http://icn.cce.i.kyoto-u.ac.jp/english) Lab.
+I am a Program-Specific Researcher at the [Department of Communications and Computer Engineering](http://www.cce.i.kyoto-u.ac.jp/index.html), [Kyoto University](https://www.kyoto-u.ac.jp/ja), Kyoto, Japan. I am working with Prof. [Eiji Oki](http://icn.cce.i.kyoto-u.ac.jp/english/english_oki) at [ICN](http://icn.cce.i.kyoto-u.ac.jp/english) Lab.
 
 My research interest lies in modeling and algorithm design for communication and computer networks. At a high level, I would like to bridge the theoretical approaches and the practical applications. My goal is to achieve reliable, cost-effective, flexible, scalable, and intelligent networks by leveraging techniques from optimization, queueing theory, graph theory, and machine learning. 
 
