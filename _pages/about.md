@@ -44,7 +44,7 @@ Visiting
 * 2015 – 2016, Exchange student
   * The University of Electro-Communications, Tokyo, Japan
 
-Projects
+Grants
 ======
 * Robust Optimization for Resource Allocation in Cloud Providers
   * Funding agency: JSPS Grant-in-Aid for Early-Career Scientists
