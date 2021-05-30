@@ -26,7 +26,7 @@ Network virtualization has been introduced as a key role in the next-generation 
   * **F. He** and E. Oki, “[Unavailability-aware shared virtual backup allocation for middleboxes: a queueing approach](https://ieeexplore.ieee.org/document/9204642),” *IEEE Transactions on Network and Service Management*, early access, Sept. 2020, doi: 10.1109/TNSM.2020.3026218.
   * **F. He**, T. Sato, and E. Oki, “[Optimization model for backup resource allocation in middleboxes with importance](https://ieeexplore.ieee.org/document/8786912),” *IEEE/ACM Transactions on Networking*, vol. 27, no. 4, pp. 1742-1755, Aug. 2019.
 
-* **Low-latency resource allocation**
+* **Latency-aware resource allocation**
   * **F. He** and E. Oki, “Robust virtual network function deployment against uncertain traffic arrival rates,” *Proc. IEEE NetSoft 2021*, Online, Jun. 2021, pp. 1-9.
 
 <!--- 
