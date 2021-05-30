@@ -4,7 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-Please check my [CV](http://fujunhe.github.io/files/Curriculum_Vitae.pdf) for the full list of publications.
+## Publicaitons
+Please check [CV](http://fujunhe.github.io/files/Curriculum_Vitae.pdf)(full list), [Google Scholar](https://scholar.google.co.jp/citations?user=1x7F0AMAAAAJ&hl=en), [DBLP](https://dblp.org/pid/34/7779.html), and [Researchmap](https://researchmap.jp/fujunhe) for my publications.
 
 ## Grants
 * Robust Optimization for Resource Allocation in Cloud Providers
