@@ -16,9 +16,7 @@ Grants
 
 Recent research projects
 ======
-
-Reliable resource allocation in network virtualization
-------
+<h2> Reliable resource allocation in network virtualization </h2>
 Network virtualization has been introduced as a key role in the next-generation networking paradigm to fend off the ossification of traditional networks. While network virtualization leads to a more flexible network by adopting the technologies of **computer virtualization**, **network function virtualization (NFV)**, and **software-defined networking (SDN)**, it brings challenges for network management, one of which is how to efficiently allocate resources with concerning the reliability issue. Resource allocation with **protection** strategies is an essential requirement for network virtualization. We study reliable resource allocation for different problems with typical application scenarios in network virtualization.
 * **F. He** and E. Oki, “[Backup allocation model with probabilistic protection for virtual networks against multiple facility node failures](https://ieeexplore.ieee.org/document/9415681),” *IEEE Transactions on Network and Service Management*, early access, Apr. 2021, doi: 10.1109/TNSM.2021.3075458.
 * **F. He**, and E. Oki, “[Master and slave controller assignment with optimal priority policy against multiple failures](https://ieeexplore.ieee.org/document/9372933),” *IEEE Transactions on Network and Service Management*, early access, Mar. 2021, doi: 10.1109/TNSM.2021.3064646. 
