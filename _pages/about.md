@@ -20,6 +20,8 @@ My research interest lies in modeling and algorithm design for communication and
 
 Recently, my work focuses on: 1) resource allocation in network virtualization; 2) routing and spectrum allocation in optical networks; 3) artificial intelligence in network management.
 
+I am open to collaborations. If you are interested in my research, please drop me a mail.
+
 <!---***I am actively looking for a faculty position.***--->
 
 <!---Education
