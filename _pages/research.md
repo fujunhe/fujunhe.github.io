@@ -12,7 +12,7 @@ Please check my [CV](http://fujunhe.github.io/files/Curriculum_Vitae.pdf) (full 
 ## Grants
 * Robust Optimization for Resource Allocation in Cloud Providers
   * Funding agency: JSPS Grant-in-Aid for Early-Career Scientists
-  * Duration: Apr. 2021 – Mar. 2023
+  * Duration: Apr. 2021 – Mar. 2024
   * Role: Principal Investigator
   * Amount: 4,290,000 JPY
 
