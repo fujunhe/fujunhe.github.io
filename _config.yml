@@ -77,6 +77,7 @@ social:
 #  google:
 #    tracking_id          :
 
+theme: jekyll-theme-slate
 google_analytics: UA-197746744-1
 
 # Site Author
