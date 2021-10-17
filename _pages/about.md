@@ -18,7 +18,7 @@ I am a Program-Specific Researcher at the Department of Communications and Compu
 
 My research interest lies in modeling and algorithm design for communication and computer networks. At a high level, I work on bridging the theoretical approaches and the practical applications. My goal is to achieve reliable, cost-effective, flexible, scalable, and intelligent networks by leveraging techniques from optimization, queueing theory, graph theory, and machine learning. 
 
-Recently, my work focuses on: 1) resource allocation in network virtualization; 2) routing and spectrum allocation in optical networks; 3) artificial intelligence in network management.
+Recently, my work focuses on: 1) resource allocation in network virtualization/softwarization; 2) routing and spectrum allocation in optical networks; 3) artificial intelligence in network management.
 
 I am open to collaborations. If you are interested, please drop me a mail.
 
