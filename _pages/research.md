@@ -19,8 +19,8 @@ Selected ones are listed below.
 
 ## Recent research projects
 
-### Resource allocation in network virtualization
-Network virtualization has been introduced as a key role in the next-generation networking paradigm to fend off the ossification of traditional networks. While network virtualization leads to a more flexible network by adopting the technologies of **computer virtualization**, **network function virtualization (NFV)**, and **software-defined networking (SDN)**, it brings challenges for network management, one of which is how to efficiently allocate network resources considering different requirements such as reliability and latency. We study resource allocation for different problems with typical application scenarios in network virtualization.
+### Resource allocation in network virtualization/softwarization
+Network virtualization/softwarization has been introduced as a key role in the next-generation networking paradigm to fend off the ossification of traditional networks. While network virtualization/softwarization leads to a more flexible network by adopting the technologies of **computer virtualization**, **network function virtualization (NFV)**, and **software-defined networking (SDN)**, it brings challenges for network management, one of which is how to efficiently allocate network resources considering different requirements such as reliability and latency. We study resource allocation for different problems with typical application scenarios in network virtualization/softwarization.
 
 * **Reliable resource allocation**
   * **F. He** and E. Oki, “[Backup allocation model with probabilistic protection for virtual networks against multiple facility node failures](https://ieeexplore.ieee.org/document/9415681),” *IEEE Transactions on Network and Service Management*, vol. 18, no. 3, pp. 2943-2959, Sept. 2021.
