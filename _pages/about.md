@@ -16,11 +16,12 @@ I was an exchange student at The University of Electro-Communications, Tokyo, Ja
 
 I am a Program-Specific Researcher at the Department of Communications and Computer Engineering, Kyoto University, Kyoto, Japan, where I received the Ph.D. degree in 2020. I am working with Prof. [Eiji Oki](http://icn.cce.i.kyoto-u.ac.jp/english/english_oki) at [ICN](http://icn.cce.i.kyoto-u.ac.jp/english) Lab.
 
-My research interest lies in modeling and algorithm design for communication and computer networks. At a high level, I work on bridging the theoretical approaches and the practical applications. My goal is to achieve reliable, cost-effective, flexible, scalable, and intelligent networks by leveraging techniques from optimization, queueing theory, graph theory, and machine learning. 
+My research interest lies in modeling and algorithm design for communication and computer networks. At a high level, I work on bridging the theoretical approaches and the practical applications. My goal is to achieve reliable, cost-effective, flexible, scalable, and intelligent networks by leveraging techniques from optimization, queueing theory, graph theory, and machine learning. Recently, my work focuses on: 1) network virtualization/softwarization; 2) optical networks; 3) artificial intelligence for network control.
 
-Recently, my work focuses on: 1) resource allocation in network virtualization/softwarization; 2) routing and spectrum allocation in optical networks; 3) artificial intelligence for network control.
 
-I am open to collaborations. If you are interested, please drop me a mail.
+<!---Recently, my work focuses on: 1) resource allocation in network virtualization/softwarization; 2) routing and spectrum allocation in optical networks; 3) artificial intelligence for network control.
+
+I am open to collaborations. If you are interested, please drop me a mail.--->
 
 <!---***I am actively looking for a faculty position.***--->
 
