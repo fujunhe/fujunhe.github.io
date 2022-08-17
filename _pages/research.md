@@ -21,19 +21,17 @@ Selected ones are listed below.
 
 ### Network virtualization/softwarization
 Network virtualization/softwarization has been introduced as a key role in the next-generation networking paradigm to fend off the ossification of traditional networks. While network virtualization/softwarization leads to a more flexible network by adopting the technologies of **computer virtualization**, **network function virtualization (NFV)**, and **software-defined networking (SDN)**, it brings challenges for network management, one of which is how to efficiently allocate network resources considering different requirements such as reliability and latency. We study resource allocation for different problems with typical application scenarios in network virtualization/softwarization.
-
-* **Virtual networks**
-  * **F. He** and E. Oki, “[Backup allocation model with probabilistic protection for virtual networks against multiple facility node failures](https://ieeexplore.ieee.org/document/9415681),” *IEEE Transactions on Network and Service Management*, vol. 18, no. 3, pp. 2943-2959, Sept. 2021.
-  * **F. He**, T. Sato, B. C. Chatterjee, T. Kurimoto, S. Urushidani, and E. Oki, “[Robust optimization model for primary and backup resource allocation in cloud providers](https://ieeexplore.ieee.org/document/9320544),” *IEEE Transactions on Cloud Computing*, early access, Jan. 2021, doi: 10.1109/TCC.2021.3051018.
-
-* **NFV**
   * **F. He** and E. Oki, “[Robust virtual network function deployment against uncertain traffic arrival rates](https://ieeexplore.ieee.org/document/9492607),” in *Proc. IEEE NetSoft 2021*, Online, June 2021, pp. 339-347.
+  * **F. He** and E. Oki, “[Backup allocation model with probabilistic protection for virtual networks against multiple facility node failures](https://ieeexplore.ieee.org/document/9415681),” *IEEE Transactions on Network and Service Management*, vol. 18, no. 3, pp. 2943-2959, Sept. 2021.
+  * **F. He** and E. Oki, “[Main and secondary controller assignment with optimal priority policy against multiple failures](https://ieeexplore.ieee.org/document/9372933),” *IEEE Transactions on Network and Service Management*, vol. 18, no. 4, pp. 4391-4405, Dec. 2021.
+  * **F. He**, T. Sato, B. C. Chatterjee, T. Kurimoto, S. Urushidani, and E. Oki, “[Robust optimization model for primary and backup resource allocation in cloud providers](https://ieeexplore.ieee.org/document/9320544),” *IEEE Transactions on Cloud Computing*, early access, Jan. 2021, doi: 10.1109/TCC.2021.3051018.
   * **F. He** and E. Oki, “[Unavailability-aware shared virtual backup allocation for middleboxes: a queueing approach](https://ieeexplore.ieee.org/document/9204642),” *IEEE Transactions on Network and Service Management*, vol. 18, no. 2, pp. 2388-2404, June 2021.
   * **F. He**, T. Sato, and E. Oki, “[Optimization model for backup resource allocation in middleboxes with importance](https://ieeexplore.ieee.org/document/8786912),” *IEEE/ACM Transactions on Networking*, vol. 27, no. 4, pp. 1742-1755, Aug. 2019.
-
-* **SDN**
-  * **F. He** and E. Oki, “[Main and secondary controller assignment with optimal priority policy against multiple failures](https://ieeexplore.ieee.org/document/9372933),” *IEEE Transactions on Network and Service Management*, vol. 18, no. 4, pp. 4391-4405, Dec. 2021. 
-
+ 
+### Optical networks
+Data taffic has tremendously increased with the grouth of network applications. Different optical networking technologies has been introduced to make the transmission capacity closely follow this exponential growth. We study various aspects of these emergeing technologies, especially elastic optical networks (EON) and space division multiplexing (SDM) networks, to relileze extremely high capacity networks.
+  * **F. He** and E. Oki, “[Shared protection-based virtual network embedding over elastic optical networks](https://ieeexplore.ieee.org/abstract/document/9782680),” *IEEE Transactions on Network and Service Management*, early access, May 2022, doi: 10.1109/TNSM.2022.3178350.
+  * B. C. Chatterjee, **F. He**, E. Oki, A. Fumagalli, and N. Yamanaka, “[A span power management scheme for rapid lightpath provisioning and releasing in multi-core fiber networks](https://ieeexplore.ieee.org/abstract/document/8637057),” *IEEE/ACM Transactions on Networking*, vol. 27, no. 2, pp. 734-747, Apr. 2019.
 
 <!--- 
 ### Reliable resource allocation in network virtualization
