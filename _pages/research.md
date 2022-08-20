@@ -29,7 +29,7 @@ Network virtualization/softwarization has been introduced as a key role in the n
   * **F. He**, T. Sato, and E. Oki, “[Optimization model for backup resource allocation in middleboxes with importance](https://ieeexplore.ieee.org/document/8786912),” *IEEE/ACM Transactions on Networking*, vol. 27, no. 4, pp. 1742-1755, Aug. 2019.
  
 ### Optical networks
-Data taffic has tremendously increased with the grouth of network applications. Different optical networking technologies has been introduced to make the transmission capacity closely follow this exponential growth. We study various aspects of these emergeing technologies, especially elastic optical networks (EON) and space division multiplexing (SDM) networks, to relileze extremely high capacity networks.
+Data traffic has tremendously increased with the grouth of network applications. Different optical networking technologies has been introduced to make the transmission capacity closely follow this exponential growth. We study various aspects of these emergeing technologies, especially elastic optical networks (EON) and space division multiplexing (SDM) networks, to relileze extremely high capacity networks.
   * **F. He** and E. Oki, “[Shared protection-based virtual network embedding over elastic optical networks](https://ieeexplore.ieee.org/abstract/document/9782680),” *IEEE Transactions on Network and Service Management*, early access, May 2022, doi: 10.1109/TNSM.2022.3178350.
   * B. C. Chatterjee, **F. He**, E. Oki, A. Fumagalli, and N. Yamanaka, “[A span power management scheme for rapid lightpath provisioning and releasing in multi-core fiber networks](https://ieeexplore.ieee.org/abstract/document/8637057),” *IEEE/ACM Transactions on Networking*, vol. 27, no. 2, pp. 734-747, Apr. 2019.
 
