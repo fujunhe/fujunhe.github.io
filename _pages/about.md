@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a reseracher at Huawei Technologies Co., Ltd, Shenzhen, China. I received the Ph.D. degree in 2020 from Kyoto University, Kyoto, Japan, under the supervision of Prof. [Eiji Oki](http://icn.cce.i.kyoto-u.ac.jp/english/english_oki).
+I am a reseracher at Huawei Technologies Co., Ltd, Shenzhen, China. I received the Ph.D. degree from Kyoto University, Kyoto, Japan, in 2020, under the supervision of Prof. [Eiji Oki](http://icn.cce.i.kyoto-u.ac.jp/english/english_oki).
 
-My research interest lies in modeling, algorithm design, and system engineering for communication and computer networks. At a high level, I work on bridging theoretical approaches and practical applications. I aim to achieve reliable, cost-effective, flexible, scalable, and intelligent networks by leveraging optimization, queueing theory, graph theory, and machine learning techniques. Recently, my work focuses on network virtualization/softwarization, optical networks, and artificial intelligence for network control. In particular, I research fundamental algorithms and implementations for next-generation network routing and optimization at Huawei.
+My research interest lies in modeling, algorithm design, and system engineering for communication and computer networks. At a high level, I work on bridging theoretical approaches and practical applications. I aim to achieve reliable, cost-effective, flexible, scalable, and intelligent networks by leveraging optimization, queueing theory, graph theory, and machine learning techniques. Recently, my research focuses on network virtualization/softwarization, optical networks, and artificial intelligence for network control. In particular, I work on designing and implementing fundamental algorithms for next-generation network routing and optimization at Huawei.
 
 <!---I am a Program-Specific Researcher at the Department of Communications and Computer Engineering, Kyoto University, Kyoto, Japan. I am working with Prof. [Eiji Oki](http://icn.cce.i.kyoto-u.ac.jp/english/english_oki) at [ICN](http://icn.cce.i.kyoto-u.ac.jp/english) Lab.
 
