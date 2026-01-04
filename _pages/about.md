@@ -10,7 +10,10 @@ redirect_from:
 
 I am a reseracher at Huawei Technologies Co., Ltd., Shenzhen, China. I received the Ph.D. degree from Kyoto University, Kyoto, Japan, in 2020, under the supervision of Prof. [Eiji Oki](http://icn.cce.i.kyoto-u.ac.jp/english/english_oki).
 
-My research interest lies in modeling, algorithm design, and system design for communication and computer networks. At a high level, I work on bridging theoretical approaches and practical applications. I aim to achieve reliable, secure, flexible, and intelligent networks by leveraging optimization, queueing theory, graph theory, and machine learning techniques. Recently, my work focuses on network virtualization/softwarization, optical networks, and computing-aware networks. In particular, I research and implement fundamental algorithms for next-generation network routing and optimization at Huawei.
+My research interest lies in computing-networking integration systems, ranging from wide area networks (WANs) to Scale-up fabrics. 
+At a high level, I work on bridging theoretical approaches and practical applications. 
+I aim to achieve high-performance, reliable, scalable, and intelligent computing and networking systems through architecture design, system optimization, and algorithmic innovations. 
+Specifically, my recent research projects focus on: quantification and optimization of Scale-up cluster systems for Agentic AI (2024-present), routing and flow control for computing-aware WANs (2022-2024), and resource allocation for network virtualization and optical networks (before 2022).
 
 <!---My research interest lies in modeling, algorithm design, and system engineering for communication and computer networks. At a high level, I work on bridging theoretical approaches and practical applications. I aim to achieve reliable, cost-effective, flexible, scalable, and intelligent networks by leveraging optimization, queueing theory, graph theory, and machine learning techniques. Recently, my work focuses on network virtualization/softwarization, optical networks, and artificial intelligence for network control. In particular, I research and implement fundamental algorithms for next-generation network routing and optimization at Huawei.
 
