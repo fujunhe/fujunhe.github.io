@@ -10,10 +10,20 @@ redirect_from:
 
 I will join the School of Computing and Artificial Intelligence, Southwest Jiaotong University, as a Yanghua-fellow Professor this July. Prior to that, I worked as a Top-mind Researcher at Huawei Technologies from 2022 to 2026. I received my Ph.D. from Kyoto University in 2020 under the supervision of Prof. [Eiji Oki](http://icn.cce.i.kyoto-u.ac.jp/english/english_oki).
 
-Currently, my research focuses on the quantification and optimization of Agentic AI systems, with a special interest in those built upon scale-up fabrics. 
+Currently, my research focuses on cross-layer optimization for Agentic AI systems, with a particular interest in those built upon scale-up fabrics. 
 At a high level, my work bridges theoretical approaches and practical applications. 
-I aim to build high-performance, reliable, scalable, and intelligent computing and networking systems through architectural design and system optimization. 
-My past work includes routing and flow control for computing-aware WANs, as well as resource allocation for network virtualization and optical networks.
+I aim to build high-performance, reliable, scalable, and intelligent systems through architectural design and system optimization. 
+My past work includes routing and flow control for computing-aware WANs and resource allocation for network virtualization and optical networks.
+
+I am actively seeking self-motivated students.
+
+## 招募
+**我将于2026年7月加入西南交通大学计算机与人工智能学院，担任“扬华学者”教授，博士生导师。
+此前，我于2022年入选华为“天才少年”计划，在华为从事建模仿真与系统优化工作，深度参与灵衢超节点系统架构设计。
+我的研究方向聚焦于Agentic AI的系统优化，特别是结合异构计算、分离式内存以及全光交换等架构，与工业界合作紧密，注重理论创新与工业落地结合。
+目前开放硕士、博士、博士后多个名额，热忱欢迎有志者加盟。**
+
+**欢迎跨学科背景的同学积极联系。**
 
 <!---My research interest lies in modeling, algorithm design, and system engineering for communication and computer networks. At a high level, I work on bridging theoretical approaches and practical applications. I aim to achieve reliable, cost-effective, flexible, scalable, and intelligent networks by leveraging optimization, queueing theory, graph theory, and machine learning techniques. Recently, my work focuses on network virtualization/softwarization, optical networks, and artificial intelligence for network control. In particular, I research and implement fundamental algorithms for next-generation network routing and optimization at Huawei.
 
