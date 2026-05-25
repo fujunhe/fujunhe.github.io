@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a reseracher at Huawei Technologies Co., Ltd., Shenzhen, China. I received the Ph.D. degree from Kyoto University, Kyoto, Japan, in 2020, under the supervision of Prof. [Eiji Oki](http://icn.cce.i.kyoto-u.ac.jp/english/english_oki).
+I will join the School of Computing and Artificial Intelligence, Southwest Jiaotong University, as a Yanghua-fellow Professor this July. Prior to that, I worked as a Top-mind Researcher at Huawei Technologies from 2022 to 2026. I received my Ph.D. from Kyoto University in 2020 under the supervision of Prof. [Eiji Oki](http://icn.cce.i.kyoto-u.ac.jp/english/english_oki).
 
 My research interest lies in computing-networking integration systems, ranging from wide area networks (WANs) to Scale-up fabrics. 
 At a high level, I work on bridging theoretical approaches and practical applications. 
