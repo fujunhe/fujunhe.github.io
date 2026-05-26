@@ -13,7 +13,7 @@ author_profile: true
     </td>
     <!-- 右侧：文字介绍列 -->
     <td style="width: 60%; border: none; vertical-align: middle;">
-      The rapid evolution of Agentic AI imposes unprecedented demands on infrastructure beyond traditional LLM applications, necessitating efficient heterogeneous computing across CPUs/GPUs/NPUs, high-capacity and high-speed memory for KV cache and knowledge retrieval, and ultra-low-latency communication for frequent tool calls and multi-agent collaboration. However, conventional architectures fail to sustain these workloads due to systemic, multi-subsystem bottlenecks that cannot be resolved by isolated component tuning. To bridge this gap, our work focuses on cross-layer optimization from hardware to the application layer to achieve end-to-end acceleration for Agentic AI systems, leveraging high-speed cluster-level simulation technologies.
+      The rapid evolution of Agentic AI imposes unprecedented demands on infrastructure beyond traditional LLM applications, necessitating efficient heterogeneous computing across CPUs/GPUs/NPUs, high-capacity and high-speed memory for KV cache and knowledge retrieval, and ultra-low-latency communication for frequent tool calls and multi-agent collaboration. However, conventional architectures fail to sustain these workloads due to systemic, multi-subsystem bottlenecks that cannot be resolved by isolated component tuning. To bridge this gap, our work focuses on cross-layer optimization from hardware to the application layer to achieve end-to-end acceleration for Agentic AI systems, leveraging cluster-level simulation technologies.
     </td>
   </tr>
 </table>
