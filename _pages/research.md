@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 ## AI Infra
-
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <!-- 左侧：架构图列 -->
