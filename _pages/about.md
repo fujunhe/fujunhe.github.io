@@ -22,7 +22,7 @@ I am actively seeking self-motivated students.
 此前，我于2022年入选华为“天才少年”计划，在华为从事计算与网络系统仿真与优化工作，深度参与灵衢超节点系统架构设计。
 我的研究方向聚焦于Agentic AI的系统优化，特别是结合异构计算、分离式内存以及全光交换等架构，与工业界合作紧密，注重理论创新与工业落地结合。
 目前开放硕士、博士、博士后多个名额，热忱欢迎有志者加盟。**
-**PS：欢迎跨专业、跨学科背景的同学积极联系。**
+**PS：欢迎跨专业、跨学科背景的同学联系。**
 
 <!---My research interest lies in modeling, algorithm design, and system engineering for communication and computer networks. At a high level, I work on bridging theoretical approaches and practical applications. I aim to achieve reliable, cost-effective, flexible, scalable, and intelligent networks by leveraging optimization, queueing theory, graph theory, and machine learning techniques. Recently, my work focuses on network virtualization/softwarization, optical networks, and artificial intelligence for network control. In particular, I research and implement fundamental algorithms for next-generation network routing and optimization at Huawei.
 
