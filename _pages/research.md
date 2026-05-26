@@ -5,18 +5,38 @@ permalink: /research/
 author_profile: true
 ---
 ## AI Infra
-<table style="width: 100%; border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <!-- 左侧：架构图列 -->
-    <td style="width: 40%; border: none; vertical-align: middle; padding-right: 20px; text-align: center;">
-      <img src="/files/system_arch.png" style="width: 100%; max-width: 400px; height: auto; display: block; margin: 0 auto;" alt="Agentic AI Full-stack Architecture">
-    </td>
-    <!-- 右侧：文字介绍列 -->
-    <td style="width: 60%; border: none; vertical-align: middle;">
-      The rapid evolution of Agentic AI imposes unprecedented demands on infrastructure beyond traditional LLM applications, necessitating efficient heterogeneous computing across CPUs/GPUs/NPUs, high-capacity and high-speed memory for KV cache and knowledge retrieval, and ultra-low-latency communication for frequent tool calls and multi-agent collaboration. However, conventional architectures fail to sustain these workloads due to systemic, multi-subsystem bottlenecks that cannot be resolved by isolated component tuning. To bridge this gap, our work focuses on cross-layer optimization from hardware to the application layer to achieve end-to-end acceleration for Agentic AI systems, leveraging cluster-level simulation technologies.
-    </td>
-  </tr>
-</table>
+
+<div style="
+  display: flex; 
+  flex-wrap: wrap; 
+  align-items: center; 
+  gap: 24px; 
+  max-width: 1000px; 
+  margin: 0 auto; 
+  padding: 10px;
+">
+  <div style="
+    flex: 1 1 350px; 
+    text-align: center;
+  ">
+    <img src="/files/system_arch.png" style="
+      width: 100%; 
+      max-width: 450px; 
+      height: auto; 
+      display: block; 
+      margin: 0 auto;
+    " alt="Agentic AI Full-stack Architecture">
+  </div>
+  
+  <div style="
+    flex: 1 1 450px; 
+    font-size: 16px; 
+    line-height: 1.6; 
+    color: #333;
+  ">
+    The rapid evolution of Agentic AI imposes unprecedented demands on infrastructure beyond traditional LLM applications, necessitating efficient heterogeneous computing across CPUs/GPUs/NPUs, high-capacity and high-speed memory for KV cache and knowledge retrieval, and ultra-low-latency communication for frequent tool calls and multi-agent collaboration. However, conventional architectures fail to sustain these workloads due to systemic, multi-subsystem bottlenecks that cannot be resolved by isolated component tuning. To bridge this gap, our work focuses on cross-layer optimization from hardware to the application layer to achieve end-to-end acceleration for Agentic AI systems, leveraging cluster-level simulation technologies.
+  </div>
+</div>
 
 * **F. He**, C. Ye, H. Cai, Z. Lv, B. Cui, W. Yan, C. Zhan, Z. Zhang, H. Yi, J. Xiang, X. Li, Y. Gai, Z. Zhang, P. Zheng, and Y. Du, “[Ascend-RaBitQ: heterogeneous npu-cpu acceleration of billion-scale similarity search with 1-bit quantization](https://arxiv.org/abs/2605.16007v1),” arXiv:2605.16007, May, 2026.
 * **F. He**, T. Fang, H. Cai, B. Cui, Z. Zhang, Y. Yao, X. Li, L. Du, C. Ye, P. Huo, B. Gao, Y. Zhang, P. Zheng, and Y. Du, “MemFlow: characterizing memory traffic contention in disaggregated architectures,” to appear at 63rd ACM/IEEE Design Automation Conference (DAC), Long Beach, July, 2026.
