@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will join the School of Computing and Artificial Intelligence, Southwest Jiaotong University, as a Yanghua-fellow Professor this July. Prior to that, I worked as a Top-mind Researcher at Huawei Technologies from 2022 to 2026. I received my Ph.D. from Kyoto University in 2020 under the supervision of Prof. [Eiji Oki](http://icn.cce.i.kyoto-u.ac.jp/english/english_oki).
+I will join the School of Computing and Artificial Intelligence, Southwest Jiaotong University, as a Yanghua-fellow Professor this July. Prior to that, I worked as a Top-minds Researcher at Huawei Technologies from 2022 to 2026. I received my Ph.D. from Kyoto University in 2020 under the supervision of Prof. [Eiji Oki](http://icn.cce.i.kyoto-u.ac.jp/english/english_oki).
 
 My research focuses on cross-layer optimization for Agentic AI systems, with a particular interest in those built upon scale-up fabrics. 
 At a high level, my work bridges theoretical approaches and practical applications. 
