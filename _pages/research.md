@@ -38,7 +38,7 @@ author_profile: true
   </div>
 </div>
 
-* **F. He**, C. Ye, H. Cai, Z. Lv, B. Cui, W. Yan, C. Zhan, Z. Zhang, H. Yi, J. Xiang, X. Li, Y. Gai, Z. Zhang, P. Zheng, and Y. Du, “[Ascend-rabitq: heterogeneous npu-cpu acceleration of billion-scale similarity search with 1-bit quantization](https://arxiv.org/abs/2605.16007v1),” arXiv:2605.16007, May, 2026.
+* **F. He**, C. Ye, H. Cai, Z. Lv, B. Cui, W. Yan, C. Zhan, Z. Zhang, H. Yi, J. Xiang, X. Li, Y. Gai, Z. Zhang, P. Zheng, and Y. Du, “[Ascend-rabitq: heterogeneous npu-cpu acceleration of billion-scale similarity search with 1-bit quantization](https://arxiv.org/abs/2605.16007v2),” arXiv:2605.16007, May, 2026.
 * **F. He**, T. Fang, H. Cai, B. Cui, Z. Zhang, Y. Yao, X. Li, L. Du, C. Ye, P. Huo, B. Gao, Y. Zhang, P. Zheng, and Y. Du, “[Memflow: characterizing memory traffic contention in disaggregated architectures](https://63dac.conference-program.com/presentation/?id=RESEARCH2550&sess=sess175),” to appear at 63rd ACM/IEEE Design Automation Conference (DAC), Long Beach, July, 2026.
 
 ## Previous Work on Network Virtualization/Softwarization and Optical Networks
